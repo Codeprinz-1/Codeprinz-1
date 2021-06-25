@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anyaoha Prince
 - 👀 I am a fullstack web developer, I work with MERN
-- 🌱 I’m currently learning Django and Data Science
+- 🌱 I’m currently learning Flask and Machine Learning
 - 💞️ I’m looking to collaborate on any MERN project
 - 📫 You can reach me on +2347034720041 or anyaohaprince122@gmail.com
 
