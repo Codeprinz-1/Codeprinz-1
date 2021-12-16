@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anyaoha Prince
-- 👀 I am a frontend developer, I work with Reactjs
+- 👀 I am a software engineer, I work with MERN
 - 🌱 I’m currently learning Flask and Machine Learning
-- 💞️ I’m looking to collaborate on any React project
+- 💞️ I’m looking to collaborate on any MERN project
 - 📫 You can reach me on +2347034720041 or anyaohaprince122@gmail.com
 
 <!---
