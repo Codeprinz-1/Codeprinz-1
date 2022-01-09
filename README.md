@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Anyaoha Prince
+- 👋 Hi, I’m Prince
 - 👀 I am a software engineer, I work with MERN
 - 🌱 I’m currently learning Flask and Machine Learning
 - 💞️ I’m looking to collaborate on any MERN project
