@@ -1,7 +1,5 @@
 <h2> Hi There 👋 I'm Prince 🙂</h2>
 
-I am a software engineer who is passionate about finding solutions to problems around us through technology, I am currently working on interesting projects and learning AI/ML, feel free to contribute to any of my projects on here. In my spare time, I write tech blogs on <a target="_blank" href="https://codeprince.medium.com">medium<a/>, write algorithms on codewars while trying to come up with the next big algorithm or data structure 😁 but seriously, its kind of like an obsession now, send help 🥲.
-
 <br/>
   
 <h2 align="center"> Languages and Tools <h2>
